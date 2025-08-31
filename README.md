@@ -1,2 +1,3 @@
 # Test-task
-this is a test task for a job interview
+Для начала вам потребуется установить библиотеки requests и math
+Для этого потребуется запустить в консоли команды:
