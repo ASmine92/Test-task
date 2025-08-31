@@ -1,7 +1,7 @@
 import pip
 
 pip.main(['install', 'requests'])
-pip.main(['install', 'math'])
+pip.main(['install', 'python-math'])
 
 import requests
 import math
